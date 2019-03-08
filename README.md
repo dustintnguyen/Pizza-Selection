@@ -1,2 +1,4 @@
 # Pizza-Selection
-Simple Java app that asks users to order pizza
+Simple Java app
+
+Pops up window to mimic pizz ordering with a payment window after selection.
